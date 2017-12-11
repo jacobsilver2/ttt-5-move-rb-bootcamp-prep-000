@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 def input_to_index(input)
   convertedInput = input.to_i
-  
+  convertedInput -= 1
 end
