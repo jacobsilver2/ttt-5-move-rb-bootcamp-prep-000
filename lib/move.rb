@@ -12,4 +12,4 @@ def input_to_index(input)
   convertedInput -= 1
 end
 
-def move ()
+def move (board, index, char="x")
